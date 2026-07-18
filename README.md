@@ -1,7 +1,5 @@
 # freeCodeCamp Scientific Computing with Python
 
-![Certificate](certificate.jpg)
-
 This repository contains all 5 projects required for the freeCodeCamp Scientific Computing with Python Certification.
 
 ## Projects Included

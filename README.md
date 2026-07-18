@@ -1,4 +1,4 @@
-# freeCodeCamp Scientific Computing with Python + Data Structures
+# freeCodeCamp Scientific Computing with Python & Data Structures
 
 This repository contains all 8 projects required for the freeCodeCamp certifications.
 
